@@ -17,7 +17,11 @@ body {
 .h2{color:white}
 .h1{color:red}
 .h6{color:red}
+<<<<<<< HEAD
 .h7{color:green}
+=======
+.h4{color:blue}
+>>>>>>> f2fbfed92e54fd4645ac8efb9554dbf49a367061
 .center-form{
   display: block;
   border-color: #00BCD4;
